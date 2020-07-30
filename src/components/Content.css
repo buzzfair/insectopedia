@@ -1,0 +1,39 @@
+.content {
+    margin-top: 4em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content__image {
+    height: 15rem;
+    width: auto;
+    margin: auto;
+}
+
+.content__paragraph {
+    color: #424c55;
+    font-size: 1.2em;
+    margin: .5em 25em;
+}
+
+.content__home {
+    text-align: center;
+    color: #424c55;
+    font-size: 1.2em;
+    margin: auto;
+}
+
+.content__additional {
+    text-align: center;
+    color: rgb(185, 63, 63);
+    font-size: 1.2em;
+}
+
+.image__additional {
+    height: 15rem;
+    width: auto;
+    margin: auto;
+}
+
+

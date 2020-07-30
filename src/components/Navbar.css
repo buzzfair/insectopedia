@@ -1,0 +1,15 @@
+.navbar {
+    margin-top: 3rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffeea3;
+}
+
+.navbar__link {
+    color: #424c55;
+    text-decoration: none;
+    margin: 0 60px;
+    font-size: 1.25rem;
+}

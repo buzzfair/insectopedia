@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+
+}
+
+.header__title {
+    color: #424c55;
+}
+
+.header__logo {
+    height: 2.5rem;
+
+}
